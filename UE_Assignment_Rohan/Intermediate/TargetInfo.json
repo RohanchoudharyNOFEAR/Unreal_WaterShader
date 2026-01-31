@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE_Assignment_Rohan",
+			"Path": "..\\Source\\UE_Assignment_Rohan.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE_Assignment_RohanEditor",
+			"Path": "..\\Source\\UE_Assignment_RohanEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

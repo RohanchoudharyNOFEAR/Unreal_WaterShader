@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE_Assignment_Rohan.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Game Development\Projects\Unreal Projects\UE_Assignment_Rohan\Intermediate\Build\Win64\x64\UE_Assignment_RohanEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Game Development\Projects\Unreal Projects\UE_Assignment_Rohan\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Assignment_Rohan\UE_Assignment_Rohan.cpp.obj"
+"D:\Game Development\Projects\Unreal Projects\UE_Assignment_Rohan\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Assignment_Rohan\PerModuleInline.gen.cpp.obj"
+"D:\Game Development\Projects\Unreal Projects\UE_Assignment_Rohan\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Assignment_Rohan\Default.rc2.res"
+/OUT:"D:\Game Development\Projects\Unreal Projects\UE_Assignment_Rohan\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Assignment_Rohan\UnrealEditor-UE_Assignment_Rohan.lib"
