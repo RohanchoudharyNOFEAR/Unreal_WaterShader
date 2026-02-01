@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UE_Assignment_RohanModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+833d98a9f4d49299e595d30912bb5b97c28c3d0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("UE_Assignment_RohanModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UE_Assignment_RohanModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
