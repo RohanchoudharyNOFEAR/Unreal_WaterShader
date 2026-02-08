@@ -36,10 +36,10 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NOIMPLIB
-"D:\Game Development\Projects\Unreal Projects\UE_Assignment_Rohan\Intermediate\Build\Win64\x64\UE_Assignment_RohanEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"D:\Game Development\Projects\Unreal Projects\UE_Assignment_Rohan\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Assignment_Rohan\UE_Assignment_Rohan.cpp.obj"
-"D:\Game Development\Projects\Unreal Projects\UE_Assignment_Rohan\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Assignment_Rohan\PerModuleInline.gen.cpp.obj"
-"D:\Game Development\Projects\Unreal Projects\UE_Assignment_Rohan\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Assignment_Rohan\Default.rc2.res"
+"D:\Game Development\Projects\Unreal Projects\Unreal_WaterShader\UE_Assignment_Rohan\Intermediate\Build\Win64\x64\UE_Assignment_RohanEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Game Development\Projects\Unreal Projects\Unreal_WaterShader\UE_Assignment_Rohan\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Assignment_Rohan\UE_Assignment_Rohan.cpp.obj"
+"D:\Game Development\Projects\Unreal Projects\Unreal_WaterShader\UE_Assignment_Rohan\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Assignment_Rohan\PerModuleInline.gen.cpp.obj"
+"D:\Game Development\Projects\Unreal Projects\Unreal_WaterShader\UE_Assignment_Rohan\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_Assignment_Rohan\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -70,6 +70,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:\Game Development\Projects\Unreal Projects\UE_Assignment_Rohan\Binaries\Win64\UnrealEditor-UE_Assignment_Rohan.dll"
-/PDB:"D:\Game Development\Projects\Unreal Projects\UE_Assignment_Rohan\Binaries\Win64\UnrealEditor-UE_Assignment_Rohan.pdb"
+/OUT:"D:\Game Development\Projects\Unreal Projects\Unreal_WaterShader\UE_Assignment_Rohan\Binaries\Win64\UnrealEditor-UE_Assignment_Rohan.dll"
+/PDB:"D:\Game Development\Projects\Unreal Projects\Unreal_WaterShader\UE_Assignment_Rohan\Binaries\Win64\UnrealEditor-UE_Assignment_Rohan.pdb"
 /ignore:4078

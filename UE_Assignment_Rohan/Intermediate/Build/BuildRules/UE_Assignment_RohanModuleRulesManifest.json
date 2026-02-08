@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Game Development\\Projects\\Unreal Projects\\UE_Assignment_Rohan\\Source\\UE_Assignment_Rohan\\UE_Assignment_Rohan.Build.cs",
-		"D:\\Game Development\\Projects\\Unreal Projects\\UE_Assignment_Rohan\\Source\\UE_Assignment_Rohan.Target.cs",
-		"D:\\Game Development\\Projects\\Unreal Projects\\UE_Assignment_Rohan\\Source\\UE_Assignment_RohanEditor.Target.cs"
+		"D:\\Game Development\\Projects\\Unreal Projects\\Unreal_WaterShader\\UE_Assignment_Rohan\\Source\\UE_Assignment_Rohan\\UE_Assignment_Rohan.Build.cs",
+		"D:\\Game Development\\Projects\\Unreal Projects\\Unreal_WaterShader\\UE_Assignment_Rohan\\Source\\UE_Assignment_Rohan.Target.cs",
+		"D:\\Game Development\\Projects\\Unreal Projects\\Unreal_WaterShader\\UE_Assignment_Rohan\\Source\\UE_Assignment_RohanEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.3"
 }
